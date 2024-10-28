@@ -6,6 +6,17 @@ Jesús Bovea, 19-10072
 ## Descripción
 Este repositorio contiene el código del **Proyecto 1** desarrollado en **ThreeJS**
 
+## Controles
+El tanque se puede mover con:
+- W: Movimiento hacia adelante.
+- S: Movimiento hacia atrás.
+- D: Rotación a derecha.
+- A: Rotación a izquierda.
+- Q/E/Izquierda/Derecha: Rotación de la torreta.
+- R/F/Arriba/Abajo: Elevación del cañón.
+- C: Modo del proyectil (rectilineo, parabólico).
+- M: Mostrar colisiones.
+
 ## Sistema operativo
 El proyecto está desarollado usando:
 - Windows.
