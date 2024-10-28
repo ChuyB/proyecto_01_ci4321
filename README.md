@@ -8,7 +8,8 @@ Este repositorio contiene el código del **Proyecto 1** desarrollado en **ThreeJ
 
 ## Sistema operativo
 El proyecto está desarollado usando:
-- _**TODO**_
+- Windows.
+- Arhc Linux (btw).
 
 ## Dependencias
 Para poder ejecutar el proyecto, es necesario tener instalado:
